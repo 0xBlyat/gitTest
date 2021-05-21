@@ -1,4 +1,8 @@
 h1 {
-  font-size: 11pt;
+  font-size: 40pt;
   background-color: red;
+}
+
+body {
+  background-color: aquamarine;
 }
