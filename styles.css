@@ -9,6 +9,7 @@ body {
 
 button {
   padding: 15px 32px;
+  outline-style: solid;
   outline-color: yellow;
   outline-width: 5px;
 }
