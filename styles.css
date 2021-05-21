@@ -10,4 +10,5 @@ body {
 button {
   padding: 15px 32px;
   outline-color: yellow;
+  outline-width: 5px;
 }
